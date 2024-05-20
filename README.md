@@ -29,10 +29,10 @@ It focuses on analyzing various aspects of employees, including their behavior, 
    https://github.com/Karthikc22/HR-Analytics/blob/main/HR%20Analytics.pdf
 
    
-checkot this project on linkedin :
+checkoUt this project on linkedin :
+https://www.linkedin.com/in/karthikc22/details/projects/
 
-
-checkout thw live dashboard here :
+checkout the live dashboard here :
 
 
 ### Key Insights:
